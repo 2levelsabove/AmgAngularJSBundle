@@ -1,5 +1,5 @@
 {
-    "name": "amg/angularjs",
+    "name": "amg/angularjs-bundle",
     "type": "symfony-bundle",
     "description": "Symfony AmgAngularjsBundle",
     "keywords": ["angularjs", "frontend", "amg"],
