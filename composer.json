@@ -10,15 +10,6 @@
             "email": "vazgen.manukyan@gmail.com"
         }
     ],
-    "require": {
-      "angular/angular.js": "*"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git://github.com/angular/angular.js.git"
-        }
-    ],
     "autoload": {
         "psr-0": { "Amg\\AngularjsBundle": "" }
     },
