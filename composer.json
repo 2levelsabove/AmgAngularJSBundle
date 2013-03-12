@@ -15,12 +15,8 @@
     },
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "angular/angular.js",
-                "version": "1.0.5",
-                "dist": { "url": "git://github.com/angular/angular.js.git", "type": "git" }
-            }
+            "type": "vcs",
+            "url": "git://github.com/angular/angular.js.git"
         }
     ],
     "autoload": {
