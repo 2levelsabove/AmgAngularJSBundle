@@ -18,11 +18,10 @@
             "type": "package",
             "package": {
                 "name": "amg/angularjs",
-                "version": "1.0.*",
+                "version": "1.0.5",
                 "source": {
                     "url": "git://github.com/angular/angular.js.git",
-                    "type": "git",
-                    "reference": "origin/v1.0.x"
+                    "type": "git"
                 }
             }
         }
