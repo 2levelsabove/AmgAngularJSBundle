@@ -1,0 +1,24 @@
+{
+    "name": "amg/angularjs",
+    "type": "symfony-bundle",
+    "description": "Symfony AmgAngularjsBundle",
+    "keywords": ["angularjs", "frontend", "amg"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vazgen Manukyan",
+            "email": "vazgen.manukyan@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/common": ">=2.2,<3.0"
+    },
+    "require-dev": {
+        "jms/translation-bundle": "*",
+        "sonata-project/intl-bundle": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": { "Amg\\AngularjsBundle": "" }
+    },
+    "target-dir": "Amg/AngularjsBundle"
+}
