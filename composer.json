@@ -10,13 +10,6 @@
             "email": "vazgen.manukyan@gmail.com"
         }
     ],
-    "require": {
-        "doctrine/common": ">=2.2,<3.0"
-    },
-    "require-dev": {
-        "jms/translation-bundle": "*",
-        "sonata-project/intl-bundle": "2.1.*"
-    },
     "autoload": {
         "psr-0": { "Amg\\AngularjsBundle": "" }
     },
