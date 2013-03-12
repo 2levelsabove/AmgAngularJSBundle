@@ -11,13 +11,13 @@
         }
     ],
     "require": {
-      "amg/angularjs": "*"
+      "angular/angular.js": "*"
     },
     "repositories": [
         {
             "type": "package",
             "package": {
-                "name": "amg/angularjs",
+                "name": "angular/angular.js",
                 "version": "1.0.5",
                 "dist": { "url": "git://github.com/angular/angular.js.git", "type": "git" }
             }
