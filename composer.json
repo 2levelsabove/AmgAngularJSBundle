@@ -10,6 +10,23 @@
             "email": "vazgen.manukyan@gmail.com"
         }
     ],
+    "require": {
+      "amg/angularjs":             "1.0.*"
+    },
+    "repositories": {
+        "angularjs": {
+            "type": "package",
+            "package": {
+                "name": "amg/angularjs",
+                "version": "1.0.*",
+                "source": {
+                    "url": "git://github.com/angular/angular.js.git",
+                    "type": "git",
+                    "reference": "origin/v1.0.x"
+                }
+            }
+        }
+    },
     "autoload": {
         "psr-0": { "Amg\\AngularjsBundle": "" }
     },
